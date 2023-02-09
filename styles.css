@@ -1,0 +1,22 @@
+
+body {
+    background-color:rgb(94, 89, 89);
+}
+
+/* title */
+h1 {
+    text-align: center;
+    color: gold;
+}
+
+
+/* page links */
+li {
+    margin: 10px;
+}
+/* image*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
